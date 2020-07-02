@@ -1,0 +1,5 @@
+theAnswer = 42
+
+def quote_marvin():
+    print("I've calculated your chance of survivak, but I don't think yu'll like it.")
+    
